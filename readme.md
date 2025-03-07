@@ -121,5 +121,5 @@ A API segue os padrões REST para manipulação dos alunos:
 - **Bibliotecas:** GSON para manipulação de JSON no Java
 
 ## Autor
-Desenvolvido por Marcelo Peixoto - Não doarei meus pontos.
+Desenvolvido por Marcelo Peixoto.
 
