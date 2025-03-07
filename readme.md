@@ -5,7 +5,7 @@ Este repositório contém uma API desenvolvida em Laravel para gerenciar alunos 
 ## Estrutura do Projeto
 
 - **Aula16_alunos/**: Diretório do projeto Laravel contendo a API do CRUD de alunos.
-- **JavaDesktop_ProjetoAPI/**: Diretório da aplicação Java Desktop que interage com a API e realiza as operações CRUD com o banco de dados.
+- **JavaDesktop_ProjetoAPI/**: Diretório da aplicação Java Desktop que interage com a API e realiza as operações CRUD.
 
 ## Configuração da API (Laravel)
 
