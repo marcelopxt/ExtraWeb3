@@ -123,3 +123,6 @@ A API segue os padrões REST para manipulação dos alunos:
 ## Autor
 Desenvolvido por Marcelo Peixoto.
 
+## Pontos
+Não doarei meus pontos.
+
